@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminsabrym&label=Profile%20views&color=0e75b6&style=flat" alt="yasminsabrym" /> </p>
  -->
-- 📫 How to reach me **Yasminsabry099@gmail.com**
+ 📫 Reach me through mail at **Yasminsabry099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
