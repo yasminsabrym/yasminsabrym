@@ -7,8 +7,8 @@ Front-End Developer
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [YasminSabry099@gmail.com](mailto:YasminSabry099@gmail.com)
 
-<a href="https://www.github.com/yasminsabrym" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yasminsabrym?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<!-- <a href="https://www.github.com/yasminsabrym" target="_blank" rel="noreferrer"><img -->
+<!-- src="https://img.shields.io/github/followers/yasminsabrym?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 ### Skills
 
