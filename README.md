@@ -59,6 +59,4 @@ Front-End Developer
 
 <!-- <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/yasminsabrym"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
