@@ -1,7 +1,7 @@
 Hello World 👋 I'm Yasmin Sabry
 =============================
 
-Front-End Developer
+Front-End React Developer
 -------------------
 
 * 🌍  I'm based in Alexandria, Egypt
