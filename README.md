@@ -4,7 +4,7 @@ Hello World 👋 I'm Yasmin Sabry
 Front-End React Developer
 -------------------
 
-* 🌍  I'm based in Alexandria, Egypt
+* 🌍  I'm based in Egypt
 * ✉️  You can contact me at [YasminSabry099@gmail.com](mailto:YasminSabry099@gmail.com)
 
 <!-- <a href="https://www.github.com/yasminsabrym" target="_blank" rel="noreferrer"><img -->
