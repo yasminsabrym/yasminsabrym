@@ -1,7 +1,7 @@
 Hello World 👋 I'm Yasmin Sabry
 =============================
 
-Front-End React Developer
+Digital Transformation Lead / Business Intelligence Analyst / Front-End React Developer
 -------------------
 
 * 🌍  I'm based in Egypt
