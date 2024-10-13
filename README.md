@@ -1,4 +1,4 @@
-Hello World 👋 I'm Yasmin Sabry
+I'm Yasmin Sabry
 =============================
 
 Digital Transformation Lead / Business Intelligence Analyst / Front-End React Developer
