@@ -1,7 +1,7 @@
 I'm Yasmin Sabry
 =============================
 
-Digital Transformation Lead / Business Intelligence Analyst / Front-End React Developer
+Digital Transformation Lead / Product Manager / Business Analyst / Business Intelligence Analyst / Front-End React Developer
 -------------------
 
 * 🌍  I'm based in Egypt
