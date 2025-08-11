@@ -4,7 +4,7 @@ I'm Yasmin Sabry
 Digital Transformation Lead / Product Manager / Business Analyst / Business Intelligence Analyst / Front-End React Developer
 -------------------
 
-* 🌍  I'm based in Egypt
+* 🌍  I'm based in Germany
 * ✉️  You can contact me at [YasminSabry099@gmail.com](mailto:YasminSabry099@gmail.com)
 
 <!-- <a href="https://www.github.com/yasminsabrym" target="_blank" rel="noreferrer"><img -->
